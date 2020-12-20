@@ -1,5 +1,5 @@
 # HoSho
-![Hosho Logo](logo.png)
+![Hosho Logo](imgs/logo.png)
 
 Hosho is an eCommerce application, and a platform for small scale home-vendors, to sell their products to a wider public 
   - Install the app from the github 
@@ -60,5 +60,12 @@ $ flutter pub get
 $ flutter run
 ```
 This will start the app in debug mode on connecte device.
+
+
+### Some Ui-Shots
+![Hosho Logo](imgs/app_drawer.jpeg)
+![Hosho Logo](imgs/cart.jpeg)
+![Hosho Logo](imgs/otp_screen.jpeg)
+![Hosho Logo](imgs/prod_page.jpeg)
 
 Made with ❤️
