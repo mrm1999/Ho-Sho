@@ -1,4 +1,4 @@
-# HO-Sho
+# Ho-Sho
 
 A new Flutter project.
 
