@@ -1,0 +1,43 @@
+{
+    "name": "Msfo",
+    "email": "mohitrafsajm1999@gmail.com",
+    "password": "Mot@fsa123",
+    "mobileNumber": 67699270113,
+    "address":{
+        "location": "Kt ka Mohalla",
+        "pinCode": "3061sfa04",
+        "city" : "Sojat Cdsfity"
+    }
+}
+
+{
+    "name": "Msfo",
+    "email": "mohitrafsajm1999@gmail.com",
+    "shopName": "Desimart",
+    "mobileNumber": 67699270113,
+    "shop_address":{
+        "location": "Kt ka Mohalla",
+        "pinCode": "3061sfa04",
+        "city" : "Sojat Cdsfity"
+    }
+}
+
+{
+    "product_name" : "Papad",
+    "seller_id" : "1234",
+    "img_url" : "google.com",
+    "product_amount" : 40,
+    "product_quantity" : "per 100 gm",
+    "category_id" : 2,
+    "description" : "This is awesome product"
+}
+
+{
+    "product_id" : "1234"
+    "rating": 5 
+}
+
+{
+    "product_id" : "1234"
+    "comment": "Worst Product"
+}

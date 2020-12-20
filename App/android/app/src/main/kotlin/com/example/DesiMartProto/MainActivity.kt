@@ -1,0 +1,6 @@
+package com.example.DesiMartProto
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
